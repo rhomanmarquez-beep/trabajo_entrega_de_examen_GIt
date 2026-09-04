@@ -3,25 +3,25 @@ bienvenido a nuestro a nuestro diario
 
 ## destino
 
-- [viaje](españa.md)
+- [viaje a españa](españa.md)
 
-- [viaje](alemania.md)
+- [viaje a alemania](alemania.md)
 
 
-- [viaje](argentina.md)
+- [viaje a argentina](argentina.md)
 
-- [viaje](cartagena.md)
+- [viaje a cartagena](cartagena.md)
 
-- [viaje](china.md)
+- [viaje a china ](china.md)
 
-- [viaje](japon.md)
+- [viaje a japon ](japon.md)
 
-- [viaje](medellin.md)
+- [viaje a medellin ](medellin.md)
 
-- [viaje](mexico.md)
+- [viaje a mexico](mexico.md)
 
-- [viaje](portugal.md)
+- [viaje a portugal](portugal.md)
 
-- [viaje](russia.md)
+- [viaje a russia ](russia.md)
 
 
