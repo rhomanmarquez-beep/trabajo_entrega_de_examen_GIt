@@ -1,0 +1,1 @@
+#destiono turistico japon
