@@ -4,6 +4,6 @@ lugar con muy buna cultura en general sus tradiciones son geniales su pasado un 
 #recomendaciones
 participar en sus tradiciones 
 #imagen
-[lugar mas visitado](entradas/destino.jpg)
+[lugar mas visitado](destino.jpg)
 #redaccion
 recomendable por si quieres pasar tiempo de calidad 

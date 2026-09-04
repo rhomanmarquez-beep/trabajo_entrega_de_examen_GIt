@@ -6,6 +6,6 @@ su cultura en diferendes partes de su region
 gente muy hamable sus playas son muy hermosas sus mujeres son preciosas 
 su comida es espectacular 
 #imagen
--[imagen de el pais ] (entradas/destino):
+-[imagen de el pais ](destino.jpg):
 #redaccion
 les recomiendo visitar españa se un pais muy hermoso y tener hemosas ciudades y estructuras 
